@@ -1,0 +1,6 @@
+name: LipoPlugin
+version: '1.0-SNAPSHOT'
+main: org.nopal.lipoPlugin.lipoplugin
+api-version: '1.21'
+authors: [ Nopal ]
+description: Lipo Plugin Development
