@@ -19,7 +19,7 @@
          to compile your plugin to multiple servers. -->
 
     <target name="Build">
-        <jar jarfile="C:\Users\khale\Servers\LipoPlugin\plugins\${ant.project.name}.jar" basedir="./target/classes/"
+        <jar jarfile="C:\Servers\LipoServer\plugins\${ant.project.name}.jar" basedir="./target/classes/"
              includes="**/*">
         </jar>
     </target>
