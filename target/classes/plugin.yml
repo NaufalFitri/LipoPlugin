@@ -1,6 +1,10 @@
 name: LipoPlugin
 version: '1.0-SNAPSHOT'
-main: org.nopal.lipoPlugin.lipoplugin
+main: org.nopal.lipoPlugin.LipoPlugin
 api-version: '1.21'
 authors: [ Nopal ]
 description: Lipo Plugin Development
+commands:
+  test:
+    usage: /<command>
+    description: test

@@ -1,1 +1,2 @@
-org\nopal\lipoPlugin\lipoplugin.class
+org\nopal\lipoPlugin\LipoPlugin.class
+org\nopal\lipoPlugin\Commands\Hello.class
